@@ -1,0 +1,17 @@
+{
+  "name": "jordan-mbz-api",
+  "version": "1.0.0",
+  "main": "./dist/main.js",
+  "scripts": {
+    "dev": "tsx --watch ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "tsx": "^4.19.2"
+  }
+}
